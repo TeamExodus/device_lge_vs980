@@ -1,8 +1,4 @@
-# Boot animation
-TARGET_SCREEN_HEIGHT := 1920
-TARGET_SCREEN_WIDTH := 1080
-
-# Inherit some common Exodus stuff.
+#Inherit some common Exodus stuff.
 $(call inherit-product, vendor/exodus/config/common_full_phone.mk)
 
 # Enhanced NFC
@@ -23,5 +19,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="g2_vzw-user 5.0.2 LRX22G 15046001715f9 release-keys"
 
 PRODUCT_GMS_CLIENTID_BASE := android-verizon
-
-PRODUCT_PACKAGES += Torch
