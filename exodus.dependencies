@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "Exodus-Devices/lge_g3-common",
+    "target_path": "device/lge/g3-common"
+  },
+  {
+    "repository": "Exodus-Vendors/lge_vs985",
+    "target_path": "vendor/lge/vs985"
+  },
+  {
+    "repository": "Exodus-Vendors/lge_g3-common",
+    "target_path": "vendor/lge/g3-common"
+  }
+]

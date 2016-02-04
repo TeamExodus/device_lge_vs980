@@ -1,1 +1,1 @@
-add_lunch_combo cm_vs980-userdebug
+add_lunch_combo exodus_vs980-userdebug
